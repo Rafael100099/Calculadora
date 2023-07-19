@@ -16,8 +16,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" whidt="60" height="60"/>
 - ## Imagens do Codigo executado com resultados e erros de digito usuario.
 
- * Condição caso o usuario escolha um valor inteiro que nao corresponde a opção de escolha criada !
-  * sempre que o digito for diferente da opção infomado dara erro e retorna inicio  para quer o usuario escolaha as opção infomada !
+     * Condição caso o usuario escolha um valor inteiro que nao corresponde a opção de escolha criada !
+     * Sempre que o digito for diferente da opção infomado dara erro e retorna inicio  para quer o usuario escolha as opção infomada !
 
        ## Abaixo a imagem de erro de digito da escolha da operação a realizar !
        <div align="center">
