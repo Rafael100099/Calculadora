@@ -2,7 +2,7 @@
 
    ## * ***Descrição do meu Projeto !***
  
- ### Crie uma calculadora simples, Orientada a Objeto, onde calcular dois valores com  entrada de dados e saida dados pelo terminal, sem interface grafica .
+ ### Criei uma calculadora simples, Orientada a Objeto, onde calcular dois valores com  entrada de dados e saida dados pelo terminal, sem interface grafica .
   
  ### ***funçoes de calculos !***
   * Soma 
