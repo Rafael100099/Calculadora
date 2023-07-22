@@ -20,7 +20,7 @@
         <img src="https://github.com/Rafael100099/Calculadora/assets/93090098/3d8fdd32-84e2-4182-9097-9d7d234d4f7a" <div/>
              <div/>
                 
-    ## Abaixo resultato do calculo :  Caso o usuario escolha a opçãoes disponivel mostrada na tela para escolhar !
+    ## Abaixo resultato do cálculo :  Caso o usuario escolha a opçãoes disponivel mostrada na tela para escolhar !
   <div align="center">
       <img src="https://github.com/Rafael100099/Calculadora/assets/93090098/c6368d2e-fb23-4de5-a983-fc60a3ccdcbc"
       <div/>
