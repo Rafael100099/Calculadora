@@ -14,7 +14,7 @@
 
 - ### Tecnologias usadas
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" whidt="60" height="60"/>
-- ##  _Abaixo temos, imagens do codigo em execução e com cada condição de escolha das operaçãoes e escolha do calculo a realizar com resultado do calculo !_
+- ##  _Abaixo temos, imagens do codigo em execução e com cada condição de escolha das operaçãoes e escolha do cálculo a realizar com resultado do cálculo !_
    ## Abaixo a imagem de erro de digito :  não conferi com opção disponivel para escolher a operção a realizar !
    <div align="center">
         <img src="https://github.com/Rafael100099/Calculadora/assets/93090098/3d8fdd32-84e2-4182-9097-9d7d234d4f7a" <div/>
