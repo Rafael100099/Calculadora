@@ -1,10 +1,10 @@
-# **Primeiro repositorio de teste git e GitHub !**
+# **Primeiro repositorio git e GitHub !**
 
    ## * ***Descrição do meu Projeto teste!***
  
  ## Criei uma calculadora, Orientada a Objetos, onde calcular valores, com a entrada de dados e saida de dados, pelo terminal sem  interface grafica.
   
- ### ***funçoes de calculos disponivel!***
+ ### ***funções de calculos disponivel!***
    #### - Soma 
    #### - Subtração
    #### - Divisão
